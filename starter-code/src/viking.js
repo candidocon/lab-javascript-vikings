@@ -46,7 +46,7 @@ class Saxon extends Soldier {
   }
 }
 
-// War
+// War class
 class War {
   constructor() {
     this.vikingArmy = [];
